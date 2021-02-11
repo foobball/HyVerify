@@ -1,5 +1,5 @@
 # IMPORANT
-An updated version of this is avaliable [here](https://github.com/foobball/HyVerify) and a hosted version can be found at [https://bonk.ml](https://bonk.ml)
+An updated version of this is avaliable [here](https://github.com/foobball/HypeLink) and a hosted version can be found at [https://bonk.ml](https://bonk.ml)
 
 # HyVerify
 This code is very awful as I wrote it in about 2 days. I never bothered to fix it because I'm not able to verify the bot through Discord's new process. This code is being held together by literal glue, I don't know how it works AAAAAAAAAAAAAAAAAAAAA.
